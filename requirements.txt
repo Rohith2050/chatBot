@@ -2,3 +2,4 @@ streamlit
 PdfReader
 docx
 load_dotenv
+load_qa_chain
