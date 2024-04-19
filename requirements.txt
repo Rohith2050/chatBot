@@ -1,7 +1,6 @@
 streamlit
 PdfReader
 docx
-RecursiveCharacterTextSplitter
 GoogleGenerativeAIEmbeddings
 FAISS
 ChatGoogleGenerativeAI
