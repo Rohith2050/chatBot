@@ -1,7 +1,6 @@
 streamlit
 PdfReader
 docx
-GoogleGenerativeAIEmbeddings
 FAISS
 ChatGoogleGenerativeAI
 load_qa_chain
