@@ -1,6 +1,5 @@
 streamlit
 PdfReader
-os
 docx
 RecursiveCharacterTextSplitter
 GoogleGenerativeAIEmbeddings
