@@ -1,0 +1,11 @@
+streamlit
+PdfReader
+os
+docx
+RecursiveCharacterTextSplitter
+GoogleGenerativeAIEmbeddings
+FAISS
+ChatGoogleGenerativeAI
+load_qa_chain
+PromptTemplate
+load_dotenv
