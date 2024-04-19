@@ -1,8 +1,4 @@
 streamlit
 PdfReader
 docx
-FAISS
-ChatGoogleGenerativeAI
-load_qa_chain
-PromptTemplate
 load_dotenv
